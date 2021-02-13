@@ -1,6 +1,6 @@
 #!/bin/bash
 # git clone the repo
-git clone https://github.com/nikitachirania/Xmeme.git
+git clone https://github.com/Adrenalinerush07/Xmeme.git
 # cd to the cloned repo directory
   cd Xmeme
 # Run the user’s installation steps which will install any necessary dependencies required for the server to run, with sudo permission
